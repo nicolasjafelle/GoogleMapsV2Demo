@@ -1,1 +1,1 @@
-include ':GoogleMapsV2Demo', ':GooglePlayServices'
+include ':GoogleMapsV2Demo'
